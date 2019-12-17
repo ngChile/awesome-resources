@@ -10,3 +10,7 @@
 ## Databases
 * **[RxDB](https://github.com/pubkey/rxdb)**:
 Base de datos reactiva NoSQL para aplicaciones Javascript, tales como paginas web, aplicaciones hibridas, aplicaciones electron y NodeJS.
+
+## Static site generators
+* ** [Scully](https://github.com/scullyio/scully)**:
+Generador de sitios estaticos en Angular.
